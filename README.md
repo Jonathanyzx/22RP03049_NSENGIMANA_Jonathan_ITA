@@ -85,5 +85,5 @@ php artisan serve
 For any queries, contact **yourname@email.com**.
 
 ---
-🛠️ *Happy Coding!* 🚀
+
 
